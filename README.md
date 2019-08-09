@@ -1,7 +1,7 @@
 # AlgorithmsBootcamp
 Algorithms bootcamp in C++
 
-## 1. Algorithms - Recursion
+### 1. Algorithms - Recursion
 * What is recursion (recursive function call)?
 * Head and tail recursion implementation
 * Recursion and stack memory (stack overflow)
@@ -12,27 +12,27 @@ Algorithms bootcamp in C++
 * Towers of Hanoi introduction
 * Recursion and iteration (differences)
 
-## 2. Algorithms - Backtracking
+### 2. Algorithms - Backtracking
 ...
-## 3. Algorithms - Dynamic Programming
+### 3. Algorithms - Dynamic Programming
 ...
-## 4. Data Structures - Arrays
+### 4. Data Structures - Arrays
 ...
-## 5. Data Structures - Linked Lists
+### 5. Data Structures - Linked Lists
 ...
-## 6. Data Structures - Stacks
+### 6. Data Structures - Stacks
 ...
-## 7. Data Structures - Queues
+### 7. Data Structures - Queues
 ...
-## 8. Data Structures - Trees
+### 8. Data Structures - Trees
 ...
-## 9. Priority Queues (Heaps)
+### 9. Priority Queues (Heaps)
 ...
-## 10. Associative Arrays (Maps)
+### 10. Associative Arrays (Maps)
 ...
-## 11. Graph Algorithms - Breadth-First Search (BFS)
+### 11. Graph Algorithms - Breadth-First Search (BFS)
 ...
-## 12. Graph Algorithms - Depth-First Search (DFS)
+### 12. Graph Algorithms - Depth-First Search (DFS)
 ...
 ...
 ## 7. Algorithms - Backtracking
