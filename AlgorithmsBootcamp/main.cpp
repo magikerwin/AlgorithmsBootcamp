@@ -1,8 +1,11 @@
 #include <iostream>
-#include "factorial.h"
+//#include "Algorithms-Recursion/recursion.h"
+//#include "Algorithms-Recursion/factorial.h"
+#include "Algorithms-Recursion/fibonacci.h"
 
 int main()
 {
-	std::cout << "factorail(4)=" << factorial::factorialAccumulator(4,1) << std::endl;
+	std::cout << "Ans=" << fibonacci::tailFibonacci(2) << std::endl;
+	std::system("pause");
 	return 0;
 }

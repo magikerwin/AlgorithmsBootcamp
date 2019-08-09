@@ -123,8 +123,9 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="factorial.h" />
-    <ClInclude Include="recursion.h" />
+    <ClInclude Include="Algorithms-Recursion\factorial.h" />
+    <ClInclude Include="Algorithms-Recursion\fibonacci.h" />
+    <ClInclude Include="Algorithms-Recursion\recursion.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Algorithms-Recursion">
+      <UniqueIdentifier>{24b931f7-d1c0-401f-b481-7231cfdca65c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -20,11 +23,14 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="recursion.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Algorithms-Recursion\factorial.h">
+      <Filter>Algorithms-Recursion</Filter>
     </ClInclude>
-    <ClInclude Include="factorial.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Algorithms-Recursion\recursion.h">
+      <Filter>Algorithms-Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithms-Recursion\fibonacci.h">
+      <Filter>Algorithms-Recursion</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
