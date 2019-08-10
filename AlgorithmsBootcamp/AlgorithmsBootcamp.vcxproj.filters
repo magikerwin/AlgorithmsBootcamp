@@ -26,13 +26,16 @@
     <ClInclude Include="Algorithms-Recursion\factorial.h">
       <Filter>Algorithms-Recursion</Filter>
     </ClInclude>
-    <ClInclude Include="Algorithms-Recursion\recursion.h">
-      <Filter>Algorithms-Recursion</Filter>
-    </ClInclude>
     <ClInclude Include="Algorithms-Recursion\fibonacci.h">
       <Filter>Algorithms-Recursion</Filter>
     </ClInclude>
     <ClInclude Include="Algorithms-Recursion\binarySearch.h">
+      <Filter>Algorithms-Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithms-Recursion\recursion.h">
+      <Filter>Algorithms-Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithms-Recursion\towerHanoi.h">
       <Filter>Algorithms-Recursion</Filter>
     </ClInclude>
   </ItemGroup>

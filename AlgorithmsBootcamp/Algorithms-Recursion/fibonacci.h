@@ -1,5 +1,7 @@
 #pragma once
 
+#include <iostream>
+
 namespace fibonacci
 {
 	// Fibonacci numbers:
