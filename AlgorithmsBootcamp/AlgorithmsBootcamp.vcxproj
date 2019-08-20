@@ -123,6 +123,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Algorithms-Backtracking\n-queens.h" />
     <ClInclude Include="Algorithms-Recursion\binarySearch.h" />
     <ClInclude Include="Algorithms-Recursion\factorial.h" />
     <ClInclude Include="Algorithms-Recursion\fibonacci.h" />

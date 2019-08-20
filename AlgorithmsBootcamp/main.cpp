@@ -3,12 +3,15 @@
 //#include "Algorithms-Recursion/factorial.h"
 //#include "Algorithms-Recursion/fibonacci.h"
 //#include "Algorithms-Recursion/binarySearch.h"
-#include "Algorithms-Recursion/towerHanoi.h"
+//#include "Algorithms-Recursion/towerHanoi.h"
+#include "Algorithms-Backtracking/n-queens.h"
+
 
 int main()
 {
-	std::cout << "Ans=" << towerHanoi::headTowerHanoi(3) << std::endl;
-	towerHanoi::getSolution(3, "A", "B", "C");
+	nQueens::NQueensProblem problem(4);
+	problem.solve();
+
 	std::system("pause");
 	return 0;  
 

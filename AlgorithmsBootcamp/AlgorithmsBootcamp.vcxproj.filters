@@ -16,6 +16,9 @@
     <Filter Include="Algorithms-Recursion">
       <UniqueIdentifier>{24b931f7-d1c0-401f-b481-7231cfdca65c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Algorithms-Backtracking">
+      <UniqueIdentifier>{4f0f6860-c8e0-4ef1-80d9-365575319379}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -37,6 +40,9 @@
     </ClInclude>
     <ClInclude Include="Algorithms-Recursion\towerHanoi.h">
       <Filter>Algorithms-Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithms-Backtracking\n-queens.h">
+      <Filter>Algorithms-Backtracking</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
