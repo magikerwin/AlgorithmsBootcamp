@@ -13,13 +13,22 @@ Algorithms bootcamp in C++
 * Recursion and iteration (differences)
 
 ### 2. Algorithms - Backtracking
-...
+* N-queens problem
+* Graph coloring problem
+* Knight's tour problem
+* NP-complete problem
 ### 3. Algorithms - Dynamic Programming
-...
+* Dynamic programing
+* Fibonacci-numbers
+* Knapsack problem
 ### 4. Data Structures - Arrays
-...
+* Arrays introduction - basic
+* Arrays introduction - operations
+* Arrays in C++
 ### 5. Data Structures - Linked Lists
-...
+* Linked lists theory - basic
+* Linked lists theory - operations
+* Linked lists theory - linked lists versus arrays
 ### 6. Data Structures - Stacks
 ...
 ### 7. Data Structures - Queues
