@@ -4,15 +4,24 @@
 //#include "Algorithms-Recursion/fibonacci.h"
 //#include "Algorithms-Recursion/binarySearch.h"
 //#include "Algorithms-Recursion/towerHanoi.h"
-#include "Algorithms-Backtracking/n-queens.h"
+//#include "Algorithms-Backtracking/n-queens.h"
+#include "Algorithms-Backtracking/graphColoring.h"
 
 
-int main()
-{
-	nQueens::NQueensProblem problem(4);
-	problem.solve();
+int main() {
+    const std::vector<std::vector<int>> graphMatrix = {
+        {0,1,0,1,0},
+        {1,0,1,1,0},
+        {0,1,0,1,0},
+        {1,1,1,0,1},
+        {0,0,0,1,0}
+    };
+    constexpr int numOfColors = 3;
 
-	std::system("pause");
-	return 0;  
+    graphColoring::GraphColoringProblem problem(graphMatrix, numOfColors);
+    problem();
+
+    std::system("pause");
+    return 0;
 
 }

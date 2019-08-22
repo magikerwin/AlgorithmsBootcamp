@@ -44,5 +44,8 @@
     <ClInclude Include="Algorithms-Backtracking\n-queens.h">
       <Filter>Algorithms-Backtracking</Filter>
     </ClInclude>
+    <ClInclude Include="Algorithms-Backtracking\graphColoring.h">
+      <Filter>Algorithms-Backtracking</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
