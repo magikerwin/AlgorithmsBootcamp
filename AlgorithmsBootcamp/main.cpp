@@ -1,11 +1,5 @@
 #include <iostream>
-//#include "Algorithms-Recursion/recursion.h"
-//#include "Algorithms-Recursion/factorial.h"
-//#include "Algorithms-Recursion/fibonacci.h"
-//#include "Algorithms-Recursion/binarySearch.h"
-//#include "Algorithms-Recursion/towerHanoi.h"
-//#include "Algorithms-Backtracking/n-queens.h"
-#include "Algorithms-Backtracking/graphColoring.h"
+#include "../source/Algorithms-Backtracking/graphColoring.h"
 
 
 int main() {

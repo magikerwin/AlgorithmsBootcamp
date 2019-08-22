@@ -26,26 +26,26 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Algorithms-Recursion\factorial.h">
-      <Filter>Algorithms-Recursion</Filter>
-    </ClInclude>
-    <ClInclude Include="Algorithms-Recursion\fibonacci.h">
-      <Filter>Algorithms-Recursion</Filter>
-    </ClInclude>
-    <ClInclude Include="Algorithms-Recursion\binarySearch.h">
-      <Filter>Algorithms-Recursion</Filter>
-    </ClInclude>
-    <ClInclude Include="Algorithms-Recursion\recursion.h">
-      <Filter>Algorithms-Recursion</Filter>
-    </ClInclude>
-    <ClInclude Include="Algorithms-Recursion\towerHanoi.h">
-      <Filter>Algorithms-Recursion</Filter>
-    </ClInclude>
-    <ClInclude Include="Algorithms-Backtracking\n-queens.h">
+    <ClInclude Include="..\source\Algorithms-Backtracking\graphColoring.h">
       <Filter>Algorithms-Backtracking</Filter>
     </ClInclude>
-    <ClInclude Include="Algorithms-Backtracking\graphColoring.h">
+    <ClInclude Include="..\source\Algorithms-Backtracking\n-queens.h">
       <Filter>Algorithms-Backtracking</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Algorithms-Recursion\binarySearch.h">
+      <Filter>Algorithms-Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Algorithms-Recursion\factorial.h">
+      <Filter>Algorithms-Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Algorithms-Recursion\fibonacci.h">
+      <Filter>Algorithms-Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Algorithms-Recursion\recursion.h">
+      <Filter>Algorithms-Recursion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Algorithms-Recursion\towerHanoi.h">
+      <Filter>Algorithms-Recursion</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

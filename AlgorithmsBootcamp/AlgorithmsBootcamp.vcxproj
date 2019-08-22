@@ -123,13 +123,13 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Algorithms-Backtracking\graphColoring.h" />
-    <ClInclude Include="Algorithms-Backtracking\n-queens.h" />
-    <ClInclude Include="Algorithms-Recursion\binarySearch.h" />
-    <ClInclude Include="Algorithms-Recursion\factorial.h" />
-    <ClInclude Include="Algorithms-Recursion\fibonacci.h" />
-    <ClInclude Include="Algorithms-Recursion\recursion.h" />
-    <ClInclude Include="Algorithms-Recursion\towerHanoi.h" />
+    <ClInclude Include="..\source\Algorithms-Backtracking\graphColoring.h" />
+    <ClInclude Include="..\source\Algorithms-Backtracking\n-queens.h" />
+    <ClInclude Include="..\source\Algorithms-Recursion\binarySearch.h" />
+    <ClInclude Include="..\source\Algorithms-Recursion\factorial.h" />
+    <ClInclude Include="..\source\Algorithms-Recursion\fibonacci.h" />
+    <ClInclude Include="..\source\Algorithms-Recursion\recursion.h" />
+    <ClInclude Include="..\source\Algorithms-Recursion\towerHanoi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
